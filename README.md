@@ -10,4 +10,4 @@ Press start quiz and you have 75 seconds to complete the quiz.  Wrong answers wi
 
 ## Images
 ![Alt text](https://github.com/mweyer/code-quiz/blob/main/Images/quiz-ss.png)
-![Alt text](Images\quiz2-ss.png)
+![Alt text](https://github.com/mweyer/code-quiz/blob/main/Images/quiz2-ss.png)
